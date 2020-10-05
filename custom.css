@@ -21,12 +21,15 @@ div#productDescription {
   padding: 20px;
 }
 #corporate_logo {
-    background: url(https://www.ports.je/static/logo_portsofjersey-6d15fae….png);
-    max-height: 189px;
-    padding: 170px 450px 0px 0px;
-    background-size: auto;
-    width: 0px;
-    height: 0px;
-    background-repeat: no-repeat;
-    background-position: center;
+  /*width: 500px;
+  height: 189px;
+  */
+  max-height: 189px;
+  padding: 170px 450px 0px 0px;
+  background: url('https://www.ports.je/static/logo_portsofjersey-6d15fae1aea65516989a9950777096b4.png'); 
+  background-size:auto; 
+  width:0px; 
+  height: 0px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
